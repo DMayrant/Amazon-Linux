@@ -16,6 +16,8 @@ Steps
 
 • install docker in the linux server 
 
+![image alt](https://github.com/DMayrant/Amazon-Linux/blob/main/Screenshot%202568-11-04%20at%2011.00.17.png?raw=true)
+
     sudo yum install docker -y
 
 • Verify that docker is installed 
