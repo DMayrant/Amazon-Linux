@@ -26,5 +26,5 @@ Steps
 
     docker --version
 
-![image alt](https://github.com/DMayrant/Amazon-Linux/blob/main/Screenshot%202568-11-04%20at%2011.15.58.png?raw=true)    
+  
 
