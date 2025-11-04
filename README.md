@@ -10,7 +10,7 @@ Steps
 
 • Deploy linux server in US-east-1 using terraform
 
-• Connect to the server via SSH protocol and update it
+• Connect to the server via SSH protocol and update it before installing docker
 
      sudo yum update -y
 
