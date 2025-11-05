@@ -20,7 +20,7 @@ Steps
 
     sudo yum install docker -y
 
-![image alt](https://github.com/DMayrant/Amazon-Linux/blob/main/Screenshot%202568-11-04%20at%2010.59.50.png?raw=true)    
+![image alt](https://github.com/DMayrant/Amazon-Linux/blob/main/image2.png?raw=true)    
 
 • Verify that docker is installed 
 
